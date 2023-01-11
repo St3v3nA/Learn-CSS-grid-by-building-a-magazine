@@ -69,4 +69,8 @@ img {
 .author {
     font-size: 2rem;
     font-family: Raleway, sans-serif;
-  }
+}
+
+.author-name a:hover {
+    background-color: #306203;
+}
