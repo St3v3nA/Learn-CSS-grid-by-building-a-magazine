@@ -109,4 +109,12 @@ hr {
     font-size: 2.4rem;
     text-align: center;
     font-family: Raleway, sans-serif;
-  }
+}
+
+  .quote::before {
+    content:'" ';
+}
+  
+  .quote::after {
+    content:' "';
+}
